@@ -1,0 +1,6 @@
+----------------- FOR-LOOP -----------------
+
+- Thực thi một hành động lặp đi lặp lại.
+- 3 đoạn mã trong vòng lặp đều không bắt buộc.
+
+

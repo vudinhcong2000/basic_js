@@ -1,0 +1,16 @@
+----------------- FOR/in-LOOP -----------------
+
+- Dùng để lấy ra key của đối tượng.
+
+
+
+----------------- cú pháp -----------------
+
+for (var jey in obj) {
+    //do something .
+    //code được chạy tương ứng với số lần vòng for chạy, số lần vòng for chạy tương ứng với số key trong obj.
+}
+
+--trong đó"
+ - var key: khai báo biến chạy.
+ - obj: đối tượng duyệt ( thường là object )

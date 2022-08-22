@@ -1,0 +1,15 @@
+----------------- FOR/OF-LOOP -----------------
+
+- Lấy ra những phần tử của một mảng, từng chữ cái của một chuỗi. ( không áp dụng được với object )
+
+
+
+----------------- cú pháp -----------------
+
+for (var value of student) {
+
+}
+
+-- trong đó:
+ - var value: khai báo biến chạy.
+ - students: một Array, String, Map, WeakMap, Set (không có Object)

@@ -1,0 +1,1 @@
+-do/while - sẽ kiểm tra điều kiện từ lần lặp thứ 2 trở đi

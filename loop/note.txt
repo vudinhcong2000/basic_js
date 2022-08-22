@@ -1,0 +1,13 @@
+----------------- VỎNG LẶP - LOOP -----------------
+
+1. for - lặp với điều kiện đúng.
+2. for/in - lặp qua key của đối tượng.
+3. for/of - lặp qua value của đối tượng.
+4. while - lặp khi điều kiện đúng.
+5. do/while - lặp ít nhất một lấn, sau đó lặp khi điều kiện đúng.
+
+
+----------------- Break - Continue in loop -----------------
+- Break và Continue có thể sử dụng trong tất cả các loại vòng lặp.
+- Break - sử dụng khi muốn thoát khỏi vòng lặp.
+- Continue - sử dụng khi muốn bỏ qua một vài lần lặp của vòng lặp.
