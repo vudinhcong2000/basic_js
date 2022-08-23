@@ -9,7 +9,7 @@ var myInfo = {
 console.log("----------------- object -----------------");
 for (var key in myInfo) {
   //   console.log(typeof key);
-  console.log(myInfo[key]);
+  // console.log(myInfo[key]);
 }
 
 /*----------------- array -----------------*/

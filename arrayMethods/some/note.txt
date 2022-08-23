@@ -1,0 +1,9 @@
+----------------- some() -----------------
+
+
+- Giúp kiểm tra tất cả các phần tử cùng một mảng phải thỏa mãn điều kiện nào đó. (cung cấp dưới dạng callback function)
+- không làm thay đổi mảng ban đầu.
+- trả về true (và dừng lại) nếu một phần tử trong mảng trả về true.
+- trả về false nếu tất cả các phần tử trong mảng false.
+
+- kiểu trả về boolean (đúng hay sai)

@@ -1,0 +1,15 @@
+----------------- map() -----------------
+
+- hoạt động: sẽ lặp qua từng phần tử trong mảng, mỗi lần lặp nó sẽ gọi lại hàm và trả về từng phần tử.
+
+
+- Luôn trả về (return) một mảng.
+- Mỗi khi lặp qua một phần tử thì nó sẽ gọi lại function đê thực thi tạo ra sự thay đổi.
+- Luôn phải gán biến cho nó vào một biến
+- Trong map() nếu muốn lọc lấy ra phần tử mong muốn, vì nó luôn phải return giá trị nên khi nó không tìm thấy thì nó sẽ trả về undefined. 
+- Không thay đổi mảng ban đầu.
+
+
+note: map() luôn trả về một mảng và các mảng này luôn duyệt qua tất cả các phần tử kể cả có kiểm tra điều kiện với phần tử nào đó trong mảng nếu không trúng khớp với điều kiện thì luôn trả về undefined và cái trùng khớp với điều kiện thì nó sẽ trả về đúng giá trị của nó.
+
+

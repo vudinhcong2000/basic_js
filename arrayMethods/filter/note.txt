@@ -1,0 +1,11 @@
+----------------- filter() -----------------
+
+- hoạt động: sẽ lặp qua từng phần tử trong mảng, mỗi lần lặp nó sẽ gọi lại hàm và trả về từng phần tử.
+
+
+- Tạo ra mảng mới chứa các phần tử thỏa mãn điều kiện.
+- khác với find() nó sẽ kiểm tra hết tất cả các phần tử trong mảng rồi nếu phần tử nào thỏa mãn điều kiện thì sẽ đưa phần tử đó vào mảng mới.
+- Nếu không có phần tử nào thỏa mãn thì nó sẽ in ra mảng rỗng.
+- không làm thay đổi mảng ban đầu.
+
+

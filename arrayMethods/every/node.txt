@@ -1,0 +1,9 @@
+----------------- every() -----------------
+
+
+- Giúp kiểm tra tất cả các phần tử cùng một mảng phải thỏa mãn điều kiện nào đó.
+- không làm thay đổi mảng ban đầu.
+- trả về true nếu tất cả các phần tử đều thỏa mãn.
+- trả về false nếu chỉ cần một phần tử trong mảng không thỏa mãn
+
+- kiểu trả về boolean (đúng hay sai)

@@ -1,0 +1,12 @@
+----------------- reduce() -----------------
+
+- hoạt động: sẽ lặp qua từng phần tử trong mảng, mỗi lần lặp nó sẽ gọi lại hàm và trả về từng phần tử.
+- trả về 2 tham số 
+    + callback function.
+    + initalValue: giá trị khởi tạo.
+
+- trả về một giá trị duy nhất
+
+- không làm thay đổi mảng ban đầu.
+
+

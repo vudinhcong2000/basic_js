@@ -1,0 +1,9 @@
+----------------- find() -----------------
+
+- hoạt động: sẽ lặp qua từng phần tử trong mảng, mỗi lần lặp nó sẽ gọi lại hàm và trả về từng phần tử.
+
+
+
+- Kiểm tra đến khi nào thỏa mãn điều kiện thì sẽ dừng lại kể cả khi trong mảng có 2 phần tử thỏa mãn điều kiện thì cũng chỉ trả về phần tử đầu tiền được kiểm tra thỏa mãn điều kiện.
+- trả về undefined nếu không tìm thấy phần tử nào thỏa mãn đk.
+- không thay đổi mảng ban đầu
