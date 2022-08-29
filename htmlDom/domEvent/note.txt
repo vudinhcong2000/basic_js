@@ -1,0 +1,9 @@
+-------------- DOM EVENT --------------
+1. Attribute event. (trực tiếp vào thẻ)
+2. Assign event usign the element node. (viết qua element)
+
+
+
+
+- preventDefault: loại bỏ hành vi mặc định của trình duyệt.
+- stopPropagation - loại bỏ thực hiện kiểu nổi bọt.

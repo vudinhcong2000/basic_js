@@ -27,5 +27,5 @@ var courses = [
 ];
 
 courses.forEach((course, index) => {
-  console.log(course);
+  console.log(course.coin);
 });

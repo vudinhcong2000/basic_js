@@ -1,0 +1,9 @@
+----------------ClassList property---------------
+
+- ClassList property: trả về một đối tượng DOMTTokenList, giúp quản lý được class của element.
+
+- Bao gồm: ( sử dụng phổ biến )
+    1. add - thêm class vào element.
+    2. contains - kiểm tra một class có nằm trong element hay không.
+    3. remove - xóa bỏ class ở element.
+    4. toggle - nếu có class đó trong element thì sẽ xóa bỏ, không có thì thêm vào.

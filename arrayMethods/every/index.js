@@ -2,7 +2,7 @@ var courses = [
   {
     id: 1,
     name: "javascript",
-    coin: 250,
+    coin: 0,
   },
   {
     id: 2,

@@ -17,7 +17,7 @@ var courses = [
 
   {
     id: 4,
-    name: "PHP",
+    name: "Ruby",
     coin: 400,
   },
   {
